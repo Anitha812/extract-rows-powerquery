@@ -2,5 +2,5 @@
 Power Query automation to keep first 7 rows and last row from dataset for repeated task
 
 <p align="center">
-  <img src="" alt="BlinkIT Dashboard" width="600"/>
+  <img src="https://github.com/Anitha812/extract-rows-powerquery/blob/47b4da5a9192598ca670b317f38af58b686fc184/extract_r.png" alt="combine_extracted_rows_image" width="600"/>
 </p>
